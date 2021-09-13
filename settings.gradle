@@ -1,0 +1,2 @@
+rootProject.name = "Myscreen"
+include ':app'
